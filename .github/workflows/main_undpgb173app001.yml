@@ -63,4 +63,4 @@ jobs:
           app-name: 'undpgb173app001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E354C264BC144EDABC2E093C1271CADC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD022E7D762A4429A6961149136B7B48 }}
